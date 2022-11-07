@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Bhargav Chavda
-- 🌌 Currently a computer science student at highschool
+- 🌌 Currently a computer science student in highschool
 - 📫 How to reach me : bhargavc05@outlook.com
