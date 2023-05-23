@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Bhargav Chavda
-- 🌌 Currently a computer science student in highschool
+- 🌌 Currently pursuing Bachelor's degree in Data Science and Data Analytics
 - 📫 How to reach me : bhargavc05@outlook.com
