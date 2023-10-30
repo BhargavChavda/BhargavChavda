@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Bhargav Chavda
-- 🌌 Currently pursuing Bachelor's degree in Data Science and Data Analytics
+- 🌌 Currently pursuing Bachelor's degree in Data Science
 - 📫 How to reach me : bhargavc05@outlook.com
