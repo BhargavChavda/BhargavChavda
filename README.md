@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Bhargav Chavda
-- 🌌 Currently pursuing Bachelor's degree in Data Science from IIT Madras
+- 👋 Hi, I’m Bhargav
+- 🌌 Currently a student at IIT Madras doing a bachelors in Data Science
 - 📫 How to reach me : bhargavc05@outlook.com
